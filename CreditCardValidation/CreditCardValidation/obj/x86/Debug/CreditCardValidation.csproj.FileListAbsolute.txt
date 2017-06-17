@@ -1,0 +1,8 @@
+/Users/chetan/Projects/CreditCardValidation/CreditCardValidation/bin/Debug/CreditCardValidation.exe
+/Users/chetan/Projects/CreditCardValidation/CreditCardValidation/bin/Debug/CreditCardValidation.pdb
+/Users/chetan/Projects/CreditCardValidation/CreditCardValidation/obj/x86/Debug/CreditCardValidation.csproj.CoreCompileInputs.cache
+/Users/chetan/Projects/CreditCardValidation/CreditCardValidation/obj/x86/Debug/CreditCardValidation.exe
+/Users/chetan/Projects/CreditCardValidation/CreditCardValidation/obj/x86/Debug/CreditCardValidation.pdb
+/Users/chetan/Projects/CreditCardValidation/CreditCardValidation/bin/Debug/nunit.framework.dll
+/Users/chetan/Projects/CreditCardValidation/CreditCardValidation/bin/Debug/nunit.framework.xml
+/Users/chetan/Projects/CreditCardValidation/CreditCardValidation/obj/x86/Debug/CreditCardValidation.csprojResolveAssemblyReference.cache

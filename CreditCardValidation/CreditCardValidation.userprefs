@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{FA9F1633-6647-456A-AE76-99D755F3408C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CreditCardValidation/CreditCardTests.cs">
+    <Files>
+      <File FileName="CreditCardValidation/Program.cs" Line="22" Column="1" />
+      <File FileName="CreditCardValidation/CreditCardTests.cs" Line="91" Column="4" />
+      <File FileName="CreditCardValidation/CreditCardValidator.cs" Line="41" Column="1" />
+      <File FileName="CreditCardValidation/Readme.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CreditCardValidation" expanded="True">
+            <Node name="CreditCardValidation" expanded="True">
+              <Node name="CreditCardValidation" expanded="True">
+                <Node name="CreditCardTests" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/chetan/Projects/CreditCardValidation/CreditCardValidation/CreditCard.cs" relfile="CreditCardValidation/CreditCard.cs" line="22" column="1" />
+      <Breakpoint file="/Users/chetan/Projects/CreditCardValidation/CreditCardValidation/CreditCardValidator.cs" relfile="CreditCardValidation/CreditCardValidator.cs" line="41" column="1" />
+      <Breakpoint file="/Users/chetan/Projects/CreditCardValidation/CreditCardValidation/CreditCardValidator.cs" relfile="CreditCardValidation/CreditCardValidator.cs" line="24" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CreditCardValidation PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
